@@ -1,0 +1,16 @@
+{
+  "name": "hali",
+  "version": "1.0.0",
+  "description": "Masaüstüne serilen, fiziği olan halı",
+  "main": "main.js",
+  "private": true,
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^44.6.0"
+  },
+  "dependencies": {
+    "koffi": "^3.3.2"
+  }
+}
